@@ -1,5 +1,4 @@
 // Las clases llevan la primer letra mayúscula
-
 #pragma once // Con esto definimos que el código se ejecutará una sola vez
 
 #include <stdio.h>
